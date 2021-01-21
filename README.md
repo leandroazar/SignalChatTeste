@@ -1,5 +1,5 @@
 # SignalChatTeste
-Exemplo simples de chat com SignalR
+Exemplo simples de chat com SignalR.
 
 Fonte de exemplo:
 https://docs.microsoft.com/pt-br/aspnet/core/tutorials/signalr?view=aspnetcore-5.0&tabs=visual-studio-code
